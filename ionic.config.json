@@ -1,0 +1,7 @@
+{
+  "name": "av1-gil",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}
